@@ -29,8 +29,8 @@ Excelente começo! Reveja estes pontos e volte amanhã para o próximo tópico. 
 
 [Infografico](https://g.co/gemini/share/9b84692cd5d3)<br>
 
-
+<!--
 [Questoes](https://g.co/gemini/share/9b84692cd5d3){:target="_blank"} <br>
-
+-->
 
 <a href="https://g.co/gemini/share/9b84692cd5d3" target="_blank">Questoes</a>
