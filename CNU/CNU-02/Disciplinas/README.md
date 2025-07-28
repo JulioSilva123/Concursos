@@ -21,4 +21,4 @@
 	1. Desigualdades no acesso à ciência e tecnologia: questões de gênero, raça e território.
 	1. Ciência aberta, acesso livre à informação científica e reprodutibilidade.
 
-
+Mapa mental: [Eixo Temático 1 - Ciência, Tecnologia e Sociedade (CTS)](https://github.com/JulioSilva123/Concursos/tree/main/CNU/CNU-02/Recursos/EixoTematico01.01.jpg)
